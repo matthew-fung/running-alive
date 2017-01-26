@@ -1,12 +1,8 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
-------------------------------------------------------------------------
-
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+---------------------------------------------------------------------------------
+TITLE: Running-Alive
+VERSION: V6
+AUTHORS: Andrew Cheung, Chris Cho, Ken Ng, Matthew Fung, Xuan Kong
+DESCRIPTION: Running Alive was a project to apply our Object Oriented 
+Programming skills and to learn how to develop software in a collaborative
+Environment.
+---------------------------------------------------------------------------------
