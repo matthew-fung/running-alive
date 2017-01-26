@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=damage
+comment0.target=void\ checkDeath(int)
+comment0.text=\r\n\ When\ ever\ a\ breakable\ item\ gets\ him\ this\ method\ runs\ to\ lower\ damage.\r\n\ \r\n
+comment1.params=
+comment1.target=void\ dropBoulder()
+comment1.text=\r\n\ Checks\ if\ the\ Boulder\ is\ destroyed.\ \r\n\ If\ it\ is\ destroyed,\ there\ is\ a\ 20%\ chance\ for\ it\ to\ drop\ a\ M60,\ and\ is\ removed\ from\ World.\r\n
+comment2.params=
+comment2.target=void\ dropTrashCan()
+comment2.text=\r\n\ Checks\ if\ the\ TrashCan\ is\ destroyed.\ \r\n\ If\ it\ is\ destroyed\:\r\n\ There\ is\ a\ 75%\ chance\ for\ it\ to\ drop\ a\ Pistol,and\ TrashCan\ is\ removed\ from\ World.\r\n\ There\ is\ a\ slight\ chance\ for\ a\ HealthKit\ to\ drop,\ and\ TrashCan\ is\ removed\ from\ world.\r\n
+comment3.params=
+comment3.target=void\ dropCrateOne()
+comment3.text=\r\n\ Checks\ if\ the\ CrateOne\ is\ destroyed.\ \r\n\ If\ it\ is\ destroyed,\ there\ is\ a\ 30%\ chance\ for\ it\ to\ drop\ an\ AK47,\ and\ is\ removed\ from\ World.\r\n\ There\ is\ also\ a\ slight\ chance\ for\ a\ HealthKit\ to\ drop,\ and\ \ is\ removed\ from\ world.\r\n
+comment4.params=
+comment4.target=void\ dropCrateTwo()
+comment4.text=\r\n\ Checks\ if\ the\ CrateTwo\ is\ destroyed.\ \r\n\ If\ it\ is\ destroyed,\ there\ is\ a\ 30%\ chance\ for\ it\ to\ drop\ an\ AA12,\ and\ is\ removed\ from\ World.\r\n\ There\ is\ also\ a\ slight\ chance\ for\ a\ HealthKit\ to\ drop,\ and\ is\ removed\ from\ world.\r\n
+numComments=5

@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=TitleScreen()
+comment0.text=\r\n\ Constructor\ sets\ image\r\n
+comment1.params=world
+comment1.target=void\ addedToWorld(greenfoot.World)
+comment1.text=\r\n\ Adds\ to\ world\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Removes\ screen\ if\ space\ is\ pressed\r\n\ and\ adds\ an\ instructions\ page\r\n
+numComments=3

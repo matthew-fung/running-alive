@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ checkUsed()
+comment0.text=\r\n\ Checks\ if\ the\ HealthKit\ is\ touching\ the\ Human.\ \r\n\ If\ it\ is,\ the\ health\ kit\ is\ removed\ from\ the\ world.\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ HealthKit\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+numComments=2

@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=hp\ damage
+comment0.target=void\ gunAttack(int,\ int)
+comment0.text=\r\n\ \r\n\ \r\n
+comment1.params=hp\ damage
+comment1.target=void\ meleeAttack(int,\ int)
+comment1.text=\r\n\ \ \r\n\ \r\n
+comment2.params=
+comment2.target=void\ spawn()
+comment2.text=\r\n\ The\ main\ method\ for\ drops,\ they\ will\ turn\ on\ the\ spot\ slowly\ and\ are\ removed\ from\ the\ world\r\n\ if\ they\ either\ intersect\ a\ player\ or\ reach\ 50000\ acts.\r\n
+numComments=3

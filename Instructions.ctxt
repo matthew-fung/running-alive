@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Instructions()
+comment0.text=\r\n\ Constructor\ sets\ image\r\n
+comment1.params=world
+comment1.target=void\ addedToWorld(greenfoot.World)
+comment1.text=\r\n\ adds\ tp\ wpr;d\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Removes\ this\ screen\ when\ enter\ is\ pressed\r\n\ and\ starts\ the\ game\r\n
+numComments=3

@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=initialHP\ initialMaxHP\ charName
+comment0.target=CharacterHealth(int,\ int,\ java.lang.String)
+comment0.text=\r\n\ Creates\ a\ customized\ one-of-a-kind\ health\ bar\ for\ the\ main\ character\r\n\ \r\n\ @param\ initialHP\ Current\ Health\ of\ out\ Maximum\ Value\r\n\ @param\ initialMaxHP\ Maximum\ set\ value\ for\ health\r\n\ @param\ charName\ Name\ of\ character\r\n
+comment1.params=initialMaxHP\ charName
+comment1.target=CharacterHealth(int,\ java.lang.String)
+comment1.text=\r\n\ Creates\ a\ customized\ one-of-a-kind\ health\ bar\ for\ the\ main\ character\r\n\ \r\n\ @param\ initialMaxHP\ Maximum\ set\ value\ for\ health\r\n\ @param\ charName\ Name\ of\ character\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ -\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n\ <p>\r\n\ Checks\ whether\ the\ health\ is\ low\ enough\ for\ the\ blink\ effect\ to\ start\r\n
+comment3.params=updateHP
+comment3.target=void\ update(int)
+comment3.text=\r\n\ Updates\ Health\ Value\r\n\ Checks\ if\ the\ current\ health\ is\ within\ boundaries\ and\ acts\ accordingly\r\n\ \r\n\ @param\ updateHP\ Health\ bar\ points\ is\ identical\ to\ the\ entity's\ health\r\n
+comment4.params=
+comment4.target=void\ drawNewHP()
+comment4.text=\r\n\ Draws\ and\ updates\ the\ character's\ health\ bar\ art\ according\ to\ the\ new\ values\r\n
+comment5.params=
+comment5.target=void\ drawBackground()
+comment5.text=\r\n\ Draws\ the\ background\ and\ texts\ for\ the\ character's\ health\ bar\r\n
+numComments=6

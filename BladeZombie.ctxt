@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=BladeZombie()
+comment0.text=\r\nContains\ all\ the\ intial\ stat\ values\ regarding\ health,\ movement\ and\ score.\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Runs\ the\ various\ methods\ related\ to\ movement,\ health\ and\ damage\r\n
+numComments=2

@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=JumpingZombie()
+comment0.text=\r\nContains\ all\ the\ intial\ stat\ values\ regarding\ health,\ movement\ and\ score.\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Runs\ the\ various\ methods\ related\ to\ movement\ and\ health.\r\n
+comment2.params=
+comment2.target=void\ hunt()
+comment2.text=\r\nDifferent\ from\ other\ move\ methods\ as\ it\ only\ moves\ depending\ on\ the\ cooldown\ of\ its\ jump.\r\n
+numComments=3

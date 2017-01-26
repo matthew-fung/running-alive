@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=
+comment0.target=CrateOne()
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Crate\ type\ one,\ runs\ the\ dropCrate\ method\ that\ allows\ it\ to\ be\ destroyed/drop\ a\ weapon.\r\n
+numComments=2

@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=direction\ newHP\ pistol\ ak47\ spas12\ m60
+comment0.target=Human_AK47(int,\ int,\ boolean,\ boolean,\ boolean,\ boolean)
+comment0.text=\r\n\ Consists\ of\ all\ the\ stats\ that\ the\ player\ contains.\r\n\ \r\n\ @param\ direction\ Used\ in\ the\ direction\ which\ the\ player\ faces\ after\ being\ spawned\ into\ the\ world\r\n\ @param\ newHP\ The\ hp\ given\ upon\ the\ intial\ spawn\ of\ the\ player\ into\ the\ world\r\n\ @param\ pistol\ The\ intial\ state\ of\ the\ player\ in\ terms\ of\ the\ pistol\ upon\ the\ intial\ spawn\ of\ the\ player\ into\ the\ world,\ true\ for\ useable,\ false\ for\ not\r\n\ @param\ ak47\ The\ intial\ state\ of\ the\ player\ in\ terms\ of\ the\ ak47\ upon\ the\ intial\ spawn\ of\ the\ player\ into\ the\ world,\ true\ for\ useable,\ false\ for\ not\r\n\ @param\ spas12\ The\ intial\ state\ of\ the\ player\ in\ terms\ of\ the\ spas12\ upon\ the\ intial\ spawn\ of\ the\ player\ into\ the\ world,\ true\ for\ useable,\ false\ for\ not\r\n\ @param\ m60\ The\ intial\ state\ of\ the\ player\ in\ terms\ of\ the\ m60\ upon\ the\ intial\ spawn\ of\ the\ player\ into\ the\ world,\ true\ for\ useable,\ false\ for\ not\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Runs\ the\ various\ methods\ from\ the\ Mobs\ and\ Humans\ superclass\r\n\ Includes\ methods\ for\ updating\ hp\ and\ hp\ related\ methods\r\n
+numComments=2

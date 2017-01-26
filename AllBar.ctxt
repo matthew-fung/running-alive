@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=value\ barType
+comment0.target=AllBar(int,\ int)
+comment0.text=\r\n\ Creates\ a\ HealthBar\ with\ a\ given\ HP\ value\r\n\ <p>\r\n\ OR\r\n\ <p>\r\n\ Creates\ a\ ReloadBar\ with\ the\ given\ value\r\n\ \r\n\ @param\ value\ Value\ of\ the\ entity\ that\ needs\ a\ HealthBar\ or\ Value\ of\ the\ Reload\ Bar\r\n\ @param\ barType\ Chooses\ between\ one\ of\ two\ types\ of\ bars\ \ [1.\ Health\ Bar]\ \ \ [2.\ Reload\ Bar]\r\n
+comment1.params=value\ theTarget\ barType
+comment1.target=AllBar(int,\ greenfoot.Actor,\ int)
+comment1.text=\r\n\ Creates\ a\ HealthBar\ for\ an\ Actor\ with\ given\ HP\ value\r\n\ <p>\r\n\ OR\r\n\ <p>\r\n\ Creates\ a\ ReloadBar\ for\ an\ Actor(main\ character\ only)\ with\ the\ given\ value\r\n\ \r\n\ @param\ value\ Value\ of\ the\ entity\ that\ needs\ a\ HealthBar\ or\ Value\ of\ the\ Reload\ Bar\r\n\ @param\ theTarget\ The\ Actor's\ identification\ (name)\r\n\ @param\ barType\ Chooses\ between\ one\ of\ two\ types\ of\ bars\ \ 1.\ Health\ Bar\ \ \ \ 2.\ Reload\ Bar\r\n
+comment2.params=currValue\ value\ theTarget\ barType
+comment2.target=AllBar(int,\ int,\ greenfoot.Actor,\ int)
+comment2.text=\r\n\ Creates\ a\ HealthBar\ for\ an\ Actor\ with\ given\ HP\ value\ (Both\ current\ and\ total\ health)\r\n\ <p>\r\n\ OR\r\n\ <p>\r\n\ Creates\ a\ ReloadBar\ for\ an\ Actor(main\ character\ only)\ with\ the\ given\ current\ and\ total\ value\r\n\ \r\n\ @param\ curr\ \ Current\ Value\ as\ opposed\ to\ Total\ value,\ used\ mainly\ for\ health\ bars\r\n\ @param\ value\ Value\ of\ the\ entity\ that\ needs\ a\ HealthBar\ or\ Value\ of\ the\ Reload\ Bar\r\n\ @param\ theTarget\ The\ Actor's\ identification\ (name)\r\n\ @param\ barType\ Chooses\ between\ one\ of\ two\ types\ of\ bars\ \ 1.\ Health\ Bar\ \ \ \ 2.\ Reload\ Bar\r\n
+comment3.params=
+comment3.target=void\ act()
+comment3.text=\r\n\ Act\ -\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n\ <p>\r\n\ Checks\ if\ the\ current\ health\ is\ within\ boundaries\ and\ acts\ accordingly\r\n\ Once\ the\ owner\ of\ the\ health\ bar\ is\ gone\ it\ will\ disappear\ as\ well\r\n\ <p>\r\n\ Also\ will\ make\ the\ health\ bar\ slowly\ fade\ away\ when\ it\ is\ unaltered\ for\ awhile\r\n\ by\ using\ counters\ and\ changing\ transparency\r\n
+comment4.params=newCurrHP
+comment4.target=void\ updateHP(int)
+comment4.text=\r\n\ Updates\ the\ visuals\ of\ HealthBar\ with\ the\ newest\ health\ value.\r\n\ \r\n\ @param\ newCurrHP\ \ \ \ \ New\ current\ HP\ (health)\ value,\ after\ the\ entity\ gets\ damaged.\r\n
+comment5.params=hit
+comment5.target=void\ hitGuy(boolean)
+comment5.text=\r\n\ Checks\ if\ the\ entity\ was\ hit\r\n
+comment6.params=newCurrReload
+comment6.target=void\ updateReload(int)
+comment6.text=\r\n\ Updates\ the\ visuals\ of\ ReloadBar\ with\ the\ newest\ reload\ value.\r\n\ \r\n\ @param\ newCurrReload\ \ \ \ \ New\ current\ Reload\ value,\ after\ the\ main\ character\ reloads.\r\n
+comment7.params=
+comment7.target=void\ drawBar()
+comment7.text=\r\n\ Draws\ a\ HealthBar\ with\ its\ given\ Length\ and\ Height\r\n\ <p>\r\n\ OR\r\n\ <p>\r\n\ Draws\ a\ ReloadBar\ with\ its\ given\ Length\ and\ Height\r\n
+numComments=8

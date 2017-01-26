@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ animate()
+comment0.text=\r\nContains\ animations\ for\ all\ monsters\ and\ deals\ damage\ according\ to\ which\ frame\ is\ being\ played\r\n
+comment1.params=
+comment1.target=void\ chaseHumans()
+comment1.text=\r\n\ Chases\ Players\ in\ the\ World.\r\n
+comment2.params=ignoreWalls
+comment2.target=void\ chaseHumans(boolean)
+comment2.text=\r\nChases\ players\ in\ the\ world,\ includes\ parameter\ that\ involves\ walls\r\n
+comment3.params=
+comment3.target=void\ moveRandomly()
+comment3.text=\r\n\ Moves\ the\ Monster\ in\ a\ random\ direction,\ at\ its\ own\ speed.\r\n
+comment4.params=ignoreWalls
+comment4.target=void\ moveRandomly(boolean)
+comment4.text=\r\n\ Moves\ the\ Monster\ in\ a\ random\ direction,\ at\ its\ own\ speed.\r\n\ @param\ ignoreWalls\r\n
+comment5.params=points
+comment5.target=void\ addScore(int)
+comment5.text=\r\nMethod\ for\ adding\ points\ based\ on\ the\ monster\ defeated\r\n
+comment6.params=
+comment6.target=void\ checkDeath()
+comment6.text=\r\n\ Checks\ if\ a\ Monster's\ hp\ is\ less\ than\ 0\:\ if\ it\ is,\ then\ the\ Mob\ will\ be\ removed\ from\ the\ World.\r\n
+comment7.params=damage
+comment7.target=void\ attacked(int)
+comment7.text=\r\nMethod\ for\ detecting\ damage\ and\ responding\ accordingly\r\n
+numComments=8

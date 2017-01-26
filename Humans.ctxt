@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=world
+comment0.target=void\ addedToWorld(greenfoot.World)
+comment1.params=
+comment1.target=void\ movement()
+comment1.text=\r\n\ Allows\ the\ player\ to\ move\ by\ pressing\ down\ arrow\ keys.\r\n
+comment2.params=
+comment2.target=void\ dropDetection()
+comment2.text=\r\n\ This\ methods\ detects\ which\ drop\ the\ player\ has\ encountered\ and\ changes\ the\ variable\ regarding\ it\ accordingly.\r\n\ Includes\ both\ weapon\ related\ and\ health\ related\ drops.\r\n
+numComments=3

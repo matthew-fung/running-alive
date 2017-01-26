@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=rota
+comment0.target=BaseballBatBullet(int)
+comment0.text=\r\n\ Sets\ damage,\ rotation\ and\ transparency\r\n\ \r\n\ @param\ rota\ Sets\ initial\ Rotation.\r\n
+comment1.params=rota\ dmg
+comment1.target=BaseballBatBullet(int,\ int)
+comment1.text=\r\n\ Sets\ damage,\ rotation\ and\ transparency\r\n\ \r\n\ @param\ rota\ Sets\ initial\ Rotation.\r\n\ @param\ dmg\ The\ Damage\ of\ the\ bullet\r\n
+comment2.params=rota\ dmg\ transparency
+comment2.target=BaseballBatBullet(int,\ int,\ int)
+comment2.text=\r\n\ Sets\ damage,\ rotation\ and\ transparency\r\n\ \r\n\ @param\ rota\ Sets\ initial\ Rotation.\r\n\ @param\ dmg\ The\ Damage\ of\ the\ bullet\r\n\ @param\ transparency\ The\ Parency\r\n
+comment3.params=world
+comment3.target=void\ addedToWorld(greenfoot.World)
+comment3.text=\r\n\ Add\ to\ World\r\n
+comment4.params=
+comment4.target=void\ act()
+comment4.text=\r\n\ Checks\ if\ it\ should\ be\ dead\ or\ touching\ anything,\ and\ sets\ the\ transparency\ after\ a\ while\r\n
+numComments=5

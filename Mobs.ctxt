@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=int\ getDamaged()
+comment0.text=\r\n\ Gets\ the\ damage\ value\ of\ the\ respective\ Object.\r\n\ @returns\ the\ damage\ the\ object\ deals\r\n
+comment1.params=damage
+comment1.target=void\ attack(int)
+comment1.text=\r\n\ An\ object\ can\ use\ it\ to\ damage\ others\ or\ recieve\ damage\ from\ another\ source.\r\n\ \r\n\ @param\ damage\ incurred\ from\ one\ objects\ attack.\r\n
+comment2.params=
+comment2.target=void\ checkDeath()
+comment2.text=\r\n\ Checks\ if\ a\ Mob's\ hp\ is\ less\ than\ 0\:\ if\ it\ is,\ then\ the\ Mob\ will\ be\ removed\ from\ the\ World.\r\n
+comment3.params=
+comment3.target=void\ dropBreakable()
+comment3.text=\r\n\ Randomly\ drops\ a\ breakable\r\n
+numComments=4
